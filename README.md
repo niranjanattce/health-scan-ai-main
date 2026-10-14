@@ -2,7 +2,6 @@ AI HEALTH SCANNING SYSTEM
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/41663aad-edbf-4ad8-b4e1-a0d77c4c7800
 
 ## How can I edit this code?
 
