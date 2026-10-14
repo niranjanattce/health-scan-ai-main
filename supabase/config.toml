@@ -1,0 +1,4 @@
+project_id = "sdnrdtcgnucipxwujdbr"
+
+[functions.analyze-health]
+verify_jwt = false
